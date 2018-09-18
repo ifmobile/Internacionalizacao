@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalização</string>
+    <string name="text">Hola Mundo!</string>
+    <string name="botao">País</string>
+    <string name="pais">España</string>
+</resources>

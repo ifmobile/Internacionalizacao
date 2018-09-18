@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Internacionalização</string>
+
+    <string name="text">Olá Mundo!</string>
+    <string name="botao">País</string>
+    <string name="pais">Brasil</string>
+</resources>
